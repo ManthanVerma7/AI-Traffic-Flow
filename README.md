@@ -287,50 +287,11 @@ Email Delivery
 
 ---
 
-# 📷 Project Screenshots
-
-## Dashboard
-
-_Add Screenshot_
-
-## Vehicle Tracking
-
-_Add Screenshot_
-
-## Interactive Analytics
-
-_Add Screenshot_
-
-## Traffic Heatmap
-
-_Add Screenshot_
-
-## PDF Report
-
-_Add Screenshot_
-
----
-
-# 🚀 Future Roadmap
-
-- Live CCTV Integration
-- Multi-Camera Analysis
-- Smart City Integration
-- Cloud Deployment
-- Edge AI Deployment
-- Real-Time Traffic Alerts
-- Mobile Application
-- Traffic Signal Optimization
-
----
-
 # 👨‍💻 Developer
 
 **Manthan Verma**
 
 B.Tech Computer Science Engineering
-
-Passionate about Artificial Intelligence, Computer Vision, Machine Learning, and Smart Transportation Systems.
 
 ---
 
