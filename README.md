@@ -298,5 +298,3 @@ B.Tech Computer Science Engineering
 ## ⭐ Support
 
 If you found this project interesting, consider starring the repository.
-
-A star helps the project reach more developers and researchers.
