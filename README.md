@@ -44,7 +44,7 @@ The result is a modern traffic intelligence platform that helps transform raw tr
 
 Powered by:
 
-- YOLOv8 Nano
+- YOLOv8n
 - ByteTrack
 
 Supported vehicle classes:
@@ -63,20 +63,9 @@ Features:
 
 ---
 
-## 🌌 Dynamic Vehicle Trajectory Trails
-
-Every detected vehicle leaves behind a smooth comet-style trail that:
-
-- Visualizes movement direction
-- Highlights traffic flow patterns
-- Makes congestion easier to understand
-- Improves visual appeal
-
----
-
 ## 📊 Interactive Analytics Dashboard
 
-Modern glassmorphism dashboard with advanced visual analytics.
+A Dashboard with advanced visual analytics.
 
 ### 📈 Traffic Flow Analysis
 
@@ -84,17 +73,6 @@ Modern glassmorphism dashboard with advanced visual analytics.
 - Historical traffic trends
 - Machine Learning predictions
 - Interactive exploration
-
-### 📊 Vehicle Distribution
-
-Breakdown of:
-
-- Cars
-- Motorcycles
-- Buses
-- Trucks
-
-Includes dynamic filtering and cross-analysis.
 
 ### 🔥 Traffic Density Heatmap
 
@@ -113,8 +91,6 @@ Provides instant visibility into:
 - Traffic intensity
 - System load
 - Congestion severity
-
-With intuitive color indicators.
 
 ### 🚨 Traffic Risk Score
 
@@ -221,7 +197,7 @@ Features:
 - Intelligent video resizing
 - Frame optimization
 - Fast inference pipeline
-- Lightweight YOLOv8 model
+- Lightweight YOLOv8n model
 - Efficient ByteTrack integration
 - Responsive dashboard rendering
 
@@ -273,13 +249,9 @@ Email Delivery
 
 ## Frontend
 
-- Streamlit
-
-## Reporting
-
 - HTML
 - CSS
-- PDF Generation
+- JS
 
 ## AI Components
 
